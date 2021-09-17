@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-hw-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tetiana1386/nodejs-hw-1.git"
+  },
+  "author": "Tetiana Shostak <tanyashostak13@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tetiana1386/nodejs-hw-1/issues"
+  },
+  "homepage": "https://github.com/Tetiana1386/nodejs-hw-1#readme",
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
