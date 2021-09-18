@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/Tetiana1386/nodejs-hw-1#readme",
   "dependencies": {
-    "nodemon": "^2.0.12"
+    "nodemon": "^2.0.12",
+    "shortid": "^2.2.16",
+    "yargs": "^17.1.1"
   }
 }
