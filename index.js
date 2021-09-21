@@ -26,7 +26,7 @@ function invokeAction({ action, id, name, email, phone }) {
             getContactById(id)
                 .then((contact) => {
                     if (contact) {
-                        console.log(chalk.magentaBright(`Contact with id = ${id} is found!`))
+                        console.log(chalk.magentaBright(`Contact with id = ${id} found!`))
                         console.table(contact)
                     } else {
                         console.log(chalk.yellow(`Contact with id = ${id} not found!`))
