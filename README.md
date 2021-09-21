@@ -1,6 +1,6 @@
 # nodejs-hw-1
 # Скриншоты выполнения команд
 
-[IMAGE_1](https://monosnap.com/file/VMM3YGREtl9uceZtFWRDyir8JDJ4EL)
+[IMAGE_1](https://monosnap.com/file/gGD2obtL5XYEFeduQrkM1eWyFlprol)
 
-[IMAGE_2](https://monosnap.com/file/OyYOkQGxcx5oc9K22YXnLszK0wkkyx)
+[IMAGE_2](https://monosnap.com/file/2nnZgXw8i5MDGl7EYULL2cJ8a2htgz)
